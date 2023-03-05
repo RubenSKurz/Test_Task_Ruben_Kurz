@@ -1,0 +1,13 @@
+2023-03-05 15:33:00 INFO: created temporary_folder in replica folder 
+2023-03-05 15:33:00 INFO: deleted old files in replica folder
+2023-03-05 15:33:00 INFO: copied files from source folder to replicate folder
+2023-03-05 15:33:00 INFO: moved files from temporary_folder to replica folder
+2023-03-05 15:33:00 INFO: deleted temporary_folder
+2023-03-05 15:34:36 INFO: deleted old files in replica folder
+2023-03-05 15:34:36 INFO: copied files from source folder to replicate folder
+2023-03-05 15:34:36 INFO: moved files from temporary_folder to replica folder
+2023-03-05 15:34:36 INFO: deleted temporary_folder
+2023-03-05 15:37:56 INFO: deleted old files in replica folder
+2023-03-05 15:37:56 INFO: copied files from source folder to replicate folder
+2023-03-05 15:37:56 INFO: moved files from temporary_folder to replica folder
+2023-03-05 15:37:56 INFO: deleted temporary_folder
